@@ -1,0 +1,17 @@
+slackclient>=2.0.0
+slackeventsapi>=2.1.0
+Flask>=1.1.2
+pip~=20.2.3
+attrs~=20.2.0
+pyee~=7.0.4
+idna~=2.10
+multidict~=4.7.6
+Jinja2~=2.11.2
+Werkzeug~=1.0.1
+itsdangerous~=1.1.0
+click~=7.1.2
+aiohttp~=3.6.2
+MarkupSafe~=1.1.1
+yarl~=1.6.0
+chardet~=3.0.4
+setuptools~=49.6.0
